@@ -132,11 +132,11 @@ export const DataEng: dataType = {
             {
                 title: 'Dream Atlas',
                 linkRep: {
-                    title: 'GitHub repository link',
-                    href: 'https://github.com/okmic/DreamAtlas'
+                    title: 'Link',
+                    href: 'https://okmic.github.io/DreamAtlas/'
                 },
                 img: 'media/dream_atlas_logo.png',
-                descr: 'Dream Atlas is an entertainment project dedicated to astrology and dream interpretation. It includes two products: Star Sync (astrological forecasts) and Dreams Guide (dream interpretation). The project is built using modern technologies such as Three.js, Next.js, and TypeScript to ensure interactivity and high performance.'
+                descr: 'Dream Atlas is an entertainment project dedicated to astrology and dream interpretation. It includes two products: Star Sync (astrological forecasts) and Dreams Guide (dream interpretation) use AI. The project is built using modern technologies such as Three.js, Next.js, and TypeScript to ensure interactivity and high performance.'
             }
         ]
     },
@@ -243,11 +243,11 @@ export const DataRu: dataType = {
             {
                 title: 'Dream Atlas',
                 linkRep: {
-                    title: 'Ссылка на репозиторий GitHub',
-                    href: 'https://github.com/okmic/DreamAtlas'
+                    title: 'Ссылка на продукт',
+                    href: 'https://okmic.github.io/DreamAtlas/'
                 },
                 img: dreamAtlas,
-                descr: 'Dream Atlas - это развлекательный проект, посвященный астрологии и толкованию снов. Включает два продукта: Star Sync (астрологические прогнозы) и Dreams Guide (интерпретация снов). Проект создан с использованием современных технологий, таких как Three.js, Next.js и TypeScript, для обеспечения интерактивности и высокой производительности.'
+                descr: 'Dream Atlas - это развлекательный проект, посвященный астрологии и толкованию снов. Включает два продукта: Star Sync (астрологические прогнозы) и Dreams Guide (интерпретация снов) используя ИИ. Проект создан с использованием современных технологий, таких как Three.js, Next.js и TypeScript, для обеспечения интерактивности и высокой производительности.'
             }
         ]
     },
