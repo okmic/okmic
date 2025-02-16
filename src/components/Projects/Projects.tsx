@@ -22,7 +22,6 @@ export default memo(function Projects (){
         description={p.descr}
         image={p.img}
       />
-      {p.title === "GitHub" ? <br /> : <Hr />}
     </div>
     )}
   </WrapperProject>
