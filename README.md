@@ -1,4 +1,3 @@
-<h1 align="center"> 👋 </h1>
 <h2 align="center">💻 My Tech Stack</h2>
 <table align="center">
 <tr>
