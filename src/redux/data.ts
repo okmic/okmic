@@ -147,6 +147,7 @@ export const DataEng: dataType = {
     },
 
 }
+
 export const DataRu: dataType = {
     order: "Ru",
     linksTitle: {
