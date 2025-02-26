@@ -5,7 +5,6 @@ import gb from '../img/gb.jpg'
 import node from '../img/skills/nodejs.png'
 import db from "../img/skills/db.png"
 import react from '../img/skills/react.png'
-import go from '../img/skills/go.png'
 import unix from '../img/skills/unix.png'
 import docker from "../img/skills/docker.png"
 import python from "../img/skills/python.png"
