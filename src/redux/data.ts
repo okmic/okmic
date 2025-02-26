@@ -141,7 +141,7 @@ export const DataEng: dataType = {
                     title: 'Link',
                     href: 'https://okmic.github.io/DreamAtlas/'
                 },
-                img: 'media/dream_atlas_logo.png',
+                img: dreamAtlas,
                 descr: 'Dream Atlas is an entertainment project dedicated to astrology and dream interpretation. It includes two products: Star Sync (astrological forecasts) and Dreams Guide (dream interpretation) use AI. The project is built using modern technologies such as Three.js, Next.js, and TypeScript to ensure interactivity and high performance.'
             }
         ]
@@ -275,6 +275,7 @@ export const DataRu: dataType = {
     }
 
 }
+
 export const BrowserInitialState: InitTypeBrowser = {
     links: {
         deployed: {
