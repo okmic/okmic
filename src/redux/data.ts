@@ -1,7 +1,9 @@
+import telegram from '../img/skills/telegram.png'
 import canvas from '../img/Canvas.jpg'
 import hadidja from '../img/Hadidja.jpg'
 import gb from '../img/gb.jpg'
 import node from '../img/skills/nodejs.png'
+import db from "../img/skills/db.png"
 import react from '../img/skills/react.png'
 import go from '../img/skills/go.png'
 import unix from '../img/skills/unix.png'
@@ -69,36 +71,40 @@ export const DataEng: dataType = {
             "title": "Technical Stack",
             "skill": [
                 {
-                    img: react,
-                    descr: "Experience in creating fast and responsive user interfaces using the React library. Aiming to improve skills in writing clean and maintainable code, including studying best practices and modular testing to enhance the reliability of components."
+                    "img": node,
+                    "descr": "Develop high-performance server applications using Node.js and frameworks like Express, Fastify, and Nest. This enables the creation of flexible and scalable solutions that meet business requirements."
                 },
                 {
-                    img: node,
-                    descr: "Expert experience in developing server-side applications using Node.js. Creating high-performance RESTful APIs for data transmission over HTTP and WebSocket, as well as working with relational databases and document-oriented databases using ORM."
+                    "img": db,
+                    "descr": "Optimize work with relational and document-oriented databases using ORM (Prisma, TypeORM, MikroORM), which improves query performance and simplifies code maintenance."
                 },
                 {
-                    img: python,
-                    descr: "Using Python for task automation and scripting, which increases workflow efficiency and simplifies routine operations. Aiming to develop skills in this area."
+                    "img": telegram,
+                    "descr": "Experienced in developing Telegram bots using libraries like GrammY and Telegraf. This automates user interaction and enhances user experience."
                 },
                 {
-                    img: go,
-                    descr: "Developing high-performance and scalable applications using the Go programming language, allowing for the creation of efficient solutions for complex tasks."
+                    "img": react,
+                    "descr": "Create fast and responsive user interfaces using React, ensuring a smooth and high-performance experience for end users."
                 },
                 {
-                    img: unix,
-                    descr: "Good understanding of Unix-like systems, including command line usage, file and process management, as well as writing scripts for task automation."
+                    "img": unix,
+                    "descr": "Deep understanding of Unix-like systems: server configuration, scripting for automation (CI/CD, monitoring), which boosts team productivity."
                 },
                 {
-                    img: docker,
-                    descr: "Applying Docker for containerizing applications, ensuring stability and portability of environments, and simplifying deployment processes."
+                    "img": python,
+                    "descr": "Use Python for process automation and scripting, reducing time spent on routine tasks and increasing overall efficiency."
                 },
                 {
-                    img: kubernetes,
-                    descr: "Knowledge of Kubernetes for orchestrating containerized applications, including deployment management and scaling, contributing to the reliability and availability of services."
+                    "img": docker,
+                    "descr": "Containerize applications using Docker, ensuring environment stability and portability, and simplifying deployment processes."
                 },
                 {
-                    img: microservices,
-                    descr: "Experience in developing applications using microservices architecture, including interaction via HTTP and gRPC, allowing for the creation of flexible and scalable solutions that adapt to changing business requirements."
+                    "img": kubernetes,
+                    "descr": "Manage application deployment and scaling using Kubernetes, improving service reliability and availability."
+                },
+                {
+                    "img": microservices,
+                    "descr": "Develop applications with a microservices architecture, including HTTP and gRPC communication, enabling flexible and scalable solutions."
                 }
             ]
         }
@@ -194,44 +200,40 @@ export const DataRu: dataType = {
             "title": "Технический стек",
             "skill": [
                 {
-                    img: node,
-                    descr: "Разрабатываю высокопроизводительные серверные приложения на Node.js"
+                    "img": node,
+                    "descr": "Разрабатываю высокопроизводительные серверные приложения на Node.js, используя фреймворки Express, Fastify и Nest. Это позволяет создавать гибкие и масштабируемые решения, соответствующие требованиям бизнеса."
                 },
                 {
-                    img: node,
-                    descr: "Оптимизирую работу с реляционными и документно-ориентированными базами данных с применением ORM (Prisma, TypeORM, MikroORM), что способствует повышению производительности запросов"
+                    "img": db,
+                    "descr": "Оптимизирую работу с базами данных (реляционными и документно-ориентированными) с использованием ORM (Prisma, TypeORM, MikroORM), что повышает производительность запросов и упрощает поддержку кода."
                 },
                 {
-                    img: node,
-                    descr: "Работаю с бэкенд-фреймворками Express, Fastify и Nest, обеспечивая гибкость и масштабируемость разрабатываемых приложений в соответствии с требованиями бизнеса."
+                    "img": telegram,
+                    "descr": "Имею опыт разработки Telegram-ботов с использованием библиотек GrammY и Telegraf. Это позволяет автоматизировать взаимодействие с пользователями и улучшать их опыт."
                 },
                 {
-                    img: node,
-                    descr: "Разрабатываю телеграм-ботов с использованием библиотек GrammY и Telegraf, что автоматизирует взаимодействие с пользователями и значительно улучшает пользовательский опыт."
+                    "img": react,
+                    "descr": "Создаю быстрые и адаптивные пользовательские интерфейсы с использованием React, что обеспечивает удобство и высокую производительность для конечных пользователей."
                 },
                 {
-                    img: react,
-                    descr: "Создаю быстрые и адаптивные пользовательские интерфейсы с использованием React."
+                    "img": unix,
+                    "descr": "Глубоко разбираюсь в Unix-подобных системах: настраиваю серверы, пишу скрипты для автоматизации задач (CI/CD, мониторинг), что повышает продуктивность команды."
                 },
                 {
-                    img: unix,
-                    descr: "Глубоко разбираюсь в Unix-подобных системах, эффективно использую командную строку и пишу скрипты для автоматизации задач, что повышает продуктивность на 50%+."
+                    "img": python,
+                    "descr": "Использую Python для автоматизации процессов и написания скриптов, что сокращает время на рутинные задачи и повышает эффективность работы."
                 },
                 {
-                    img: python,
-                    descr: "Применяю Python для автоматизации процессов и написания скриптов, что сократило временные затраты на рутинные задачи на 5 часов в неделю."
+                    "img": docker,
+                    "descr": "Контейнеризирую приложения с помощью Docker, что обеспечивает стабильность и переносимость окружений, упрощая процесс развертывания."
                 },
                 {
-                    img: docker,
-                    descr: "Контейнеризирую приложения с помощью Docker, что обеспечивает стабильность и переносимость окружений в процессе развертывания и минимизирует риски с конфигурациями."
+                    "img": kubernetes,
+                    "descr": "Управляю развертыванием и масштабированием приложений с использованием Kubernetes, что повышает надежность и доступность сервисов."
                 },
                 {
-                    img: kubernetes,
-                    descr: "Управляю развертыванием и масштабированием контейнеризированных приложений с использованием Kubernetes, что повышает надежность и доступность сервисов."
-                },
-                {
-                    img: microservices,
-                    descr: "Разрабатываю приложения с микросервисной архитектурой, включая взаимодействие через HTTP и gRPC, что позволяет создавать гибкие и масштабируемые решения, адаптирующиеся к требованиям бизнеса."
+                    "img": microservices,
+                    "descr": "Разрабатываю приложения с микросервисной архитектурой, включая взаимодействие через HTTP и gRPC, что позволяет создавать гибкие и масштабируемые решения."
                 }
             ]
         }
