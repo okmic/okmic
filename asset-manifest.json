@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/okmic/static/js/main.e7a5ec0b.js",
+    "main.js": "/okmic/static/js/main.4354bc4b.js",
     "static/js/787.182fd71d.chunk.js": "/okmic/static/js/787.182fd71d.chunk.js",
     "static/media/hadidjaMobile.png": "/okmic/static/media/hadidjaMobile.e2221a57f94b4c79f8f8.png",
     "static/media/hadidjaPage.png": "/okmic/static/media/hadidjaPage.30de54ff9c9b9716f750.png",
@@ -8,7 +8,6 @@
     "static/media/canvasPage.png": "/okmic/static/media/canvasPage.bf098495dc9fe9b3f6b7.png",
     "static/media/me.jpg": "/okmic/static/media/me.99de58e8b9aa280473f5.jpg",
     "static/media/docker.png": "/okmic/static/media/docker.0f1d943e8a1505d609e5.png",
-    "static/media/dreamAtlas.png": "/okmic/static/media/dreamAtlas.f8451f9ce5f68a4e8aaa.png",
     "static/media/react.png": "/okmic/static/media/react.cbf838998099fa38b4c7.png",
     "static/media/nodejs.png": "/okmic/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/db.png": "/okmic/static/media/db.64b3eb63f995c0da35b3.png",
@@ -20,10 +19,10 @@
     "static/media/Canvas.jpg": "/okmic/static/media/Canvas.235eef7b614f428389ce.jpg",
     "static/media/kubernetes.svg": "/okmic/static/media/kubernetes.69f6c4411fc98e5e50dafe77f8ea8ea1.svg",
     "index.html": "/okmic/index.html",
-    "main.e7a5ec0b.js.map": "/okmic/static/js/main.e7a5ec0b.js.map",
+    "main.4354bc4b.js.map": "/okmic/static/js/main.4354bc4b.js.map",
     "787.182fd71d.chunk.js.map": "/okmic/static/js/787.182fd71d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e7a5ec0b.js"
+    "static/js/main.4354bc4b.js"
   ]
 }
