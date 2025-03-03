@@ -5,6 +5,7 @@ import gb from '../img/gb.jpg'
 import node from '../img/skills/nodejs.png'
 import db from "../img/skills/db.png"
 import react from '../img/skills/react.png'
+import go from '../img/skills/go.png'
 import unix from '../img/skills/unix.png'
 import docker from "../img/skills/docker.png"
 import python from "../img/skills/python.png"
@@ -133,21 +134,11 @@ export const DataEng: dataType = {
                 },
                 img: gb,
                 descr: 'While most of my projects are private, you can check out my GitHub profile, where I share open projects and templates. If you`re interested, you can see what I`ve been working on and how I`m developing as a programmer.'
-            },
-            {
-                title: 'Dream Atlas',
-                linkRep: {
-                    title: 'Link',
-                    href: 'https://okmic.github.io/DreamAtlas/'
-                },
-                img: dreamAtlas,
-                descr: 'Dream Atlas is an entertainment project dedicated to astrology and dream interpretation. It includes two products: Star Sync (astrological forecasts) and Dreams Guide (dream interpretation) use AI. The project is built using modern technologies such as Three.js, Next.js, and TypeScript to ensure interactivity and high performance.'
             }
         ]
     },
 
 }
-
 export const DataRu: dataType = {
     order: "Ru",
     linksTitle: {
@@ -249,15 +240,6 @@ export const DataRu: dataType = {
                 },
                 img: gb,
                 descr: 'Хотя большинство моих проектов являются приватными, вы можете заглянуть на мой профиль GitHub, где я размещаю открытые проекты и шаблоны. Если вам интересно, вы сможете увидеть, что я делал и как развиваюсь в программировании.'
-            },
-            {
-                title: 'Dream Atlas',
-                linkRep: {
-                    title: 'Ссылка на продукт',
-                    href: 'https://okmic.github.io/DreamAtlas/'
-                },
-                img: dreamAtlas,
-                descr: 'Dream Atlas - это развлекательный проект, посвященный астрологии и толкованию снов. Включает два продукта: Star Sync (астрологические прогнозы) и Dreams Guide (интерпретация снов) используя ИИ. Проект создан с использованием современных технологий, таких как Three.js, Next.js и TypeScript, для обеспечения интерактивности и высокой производительности.'
             }
         ]
     },
