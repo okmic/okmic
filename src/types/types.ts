@@ -6,7 +6,7 @@ export type MainType = {
 export type LinksType = {
     cv: string
     projects: string
-    contacts: string
+    offer: string
 }
 export type FooterType = {
     phone: string
@@ -71,6 +71,10 @@ export type ContactsType = {
 
 export type dataType = {
     order: "Ru" | "Eng"
+    offer: {
+        title: string
+        services: {title: string, description: string}[]
+    }
     linksTitle: {
         t1: string
         t2: string

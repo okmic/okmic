@@ -54,6 +54,9 @@ const appReducer = createSlice(
                 }
             }
         },
+        setWhiteTheme(state) {
+            state.theme.status = false
+        },
         changeTheme(state) {
             state.theme.status = !state.theme.status
         },
@@ -79,4 +82,4 @@ const appReducer = createSlice(
 })
 
 export default appReducer.reducer
-export const {switchLang, changeTheme, changeAppTheme, changeHeaderAndBarTheme} = appReducer.actions
+export const {switchLang, changeTheme, changeAppTheme, changeHeaderAndBarTheme, setWhiteTheme} = appReducer.actions

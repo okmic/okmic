@@ -8,6 +8,7 @@ import styled from 'styled-components'
 import { useDispatch, useSelector } from 'react-redux'
 import { stateType } from '../../redux/store'
 import { changeHeaderAndBarTheme } from '../../redux/appReducer'
+import { Link } from 'react-router-dom'
 
 export type ColorsType = {
     color: string
@@ -45,7 +46,7 @@ export default memo(function Header () {
                     component="span"
                     sx={{ flexGrow: 1, fontWeight: 600 }}
                 >
-                    <a href='#top' style={{ color: colors.color}}>{name}</a>
+                    <Link to='/#top' style={{ color: colors.color}}>{name}</Link>
                 </Typography>
                 <Switch>
                     <SelectSwitches colors={colors} />

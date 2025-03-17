@@ -5,7 +5,6 @@ import gb from '../img/gb.jpg'
 import node from '../img/skills/nodejs.png'
 import db from "../img/skills/db.png"
 import react from '../img/skills/react.png'
-import go from '../img/skills/go.png'
 import unix from '../img/skills/unix.png'
 import docker from "../img/skills/docker.png"
 import python from "../img/skills/python.png"
@@ -15,12 +14,40 @@ import canvasD from '../img/canvasPage.png'
 import canvasM from '../img/canvasMobile.png'
 import hadidjaD from '../img/hadidjaPage.png'
 import hadidjaM from '../img/hadidjaMobile.png'
-import dreamAtlas from '../img/dreamAtlas.png'
 import { dataType, InitTypeBrowser } from '../types/types'
 
 
 export const DataEng: dataType = {
     order: "Eng",
+    offer: {
+        title: "Offer",
+        services: [
+            {
+              "title": "High-Performance Applications",
+              "description": "Development of server-side solutions using Node.js (Express, Fastify, Nest). Building scalable APIs for mobile and web applications."
+            },
+            {
+              "title": "Database Optimization",
+              "description": "Working with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases. Speeding up queries and simplifying maintenance using ORM (Prisma, TypeORM)."
+            },
+            {
+              "title": "Process Automation",
+              "description": "Developing Telegram bots for customer support and notifications. Creating Python scripts to automate routine tasks."
+            },
+            {
+              "title": "Modern Interfaces",
+              "description": "Developing responsive and fast user interfaces using React and Next.js. Creating intuitive dashboards, e-commerce platforms, and corporate portals."
+            },
+            {
+              "title": "DevOps and Microservices",
+              "description": "Setting up CI/CD, containerization (Docker), and Kubernetes management. Developing microservice architectures for flexible and reliable solutions."
+            },
+            {
+              "title": "Training and Consulting",
+              "description": "Training your team on modern technologies. Consulting on process optimization and implementation of new solutions."
+            }
+        ]
+    },
     linksTitle: {
         t1: 'Link to the deployed version',
         t2: 'Repository link',
@@ -36,7 +63,7 @@ export const DataEng: dataType = {
     links: {
         cv: 'CV',
         projects: "Projects",
-        contacts: "Contacts"
+        offer: "Offer"
     },
     footer: {
         phone: "Call me",
@@ -137,10 +164,38 @@ export const DataEng: dataType = {
             }
         ]
     },
-
 }
 export const DataRu: dataType = {
     order: "Ru",
+    offer: {
+        title: "Что я предлагаю?",
+        services: [
+            {
+              title: "Высокопроизводительные приложения",
+              description: "Разработка серверных решений на Node.js (Express, Fastify, Nest). Создание масштабируемых API для мобильных и веб-приложений.",
+            },
+            {
+              title: "Оптимизация баз данных",
+              description: "Работа с реляционными (PostgreSQL, MySQL) и NoSQL (MongoDB) базами. Ускорение запросов и упрощение поддержки с помощью ORM (Prisma, TypeORM).",
+            },
+            {
+              title: "Автоматизация процессов",
+              description: "Разработка Telegram-ботов для поддержки клиентов и уведомлений. Создание скриптов на Python для автоматизации рутинных задач.",
+            },
+            {
+              title: "Современные интерфейсы",
+              description: "Разработка адаптивных и быстрых пользовательских интерфейсов на React и Next.js. Создание интуитивно понятных панелей управления, интернет-магазинов и корпоративных порталов.",
+            },
+            {
+              title: "DevOps и микросервисы",
+              description: "Настройка CI/CD, контейнеризация (Docker) и управление Kubernetes. Разработка микросервисных архитектур для гибких и надежных решений.",
+            },
+            {
+              title: "Обучение и консалтинг",
+              description: "Обучение вашей команды работе с современными технологиями. Консультации по оптимизации процессов и внедрению новых решений.",
+            }
+        ]
+    },
     linksTitle: {
         t1: 'Ссылка на развернутую версию',
         t2: 'Ссылка на репозиторий',
@@ -156,7 +211,7 @@ export const DataRu: dataType = {
     links: {
         cv: 'Опыт',
         projects: "Проекты",
-        contacts: "Контакты"
+        offer: "Оффер"
     },
     footer: {
         phone: "Позвоните мне",
@@ -258,7 +313,7 @@ export const DataRu: dataType = {
 
 }
 
-export const BrowserInitialState: InitTypeBrowser = {
+export const BrowserInitialState: InitTypeBrowser = {    
     links: {
         deployed: {
             href: null,
