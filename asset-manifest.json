@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/okmic/static/css/main.c87eee66.css",
-    "main.js": "/okmic/static/js/main.25dd097c.js",
+    "main.js": "/okmic/static/js/main.e3bb5f28.js",
     "static/js/511.11ef6c9c.chunk.js": "/okmic/static/js/511.11ef6c9c.chunk.js",
     "static/js/815.b462cd83.chunk.js": "/okmic/static/js/815.b462cd83.chunk.js",
     "static/js/787.182fd71d.chunk.js": "/okmic/static/js/787.182fd71d.chunk.js",
@@ -23,13 +23,13 @@
     "static/media/kubernetes.svg": "/okmic/static/media/kubernetes.69f6c4411fc98e5e50dafe77f8ea8ea1.svg",
     "index.html": "/okmic/index.html",
     "main.c87eee66.css.map": "/okmic/static/css/main.c87eee66.css.map",
-    "main.25dd097c.js.map": "/okmic/static/js/main.25dd097c.js.map",
+    "main.e3bb5f28.js.map": "/okmic/static/js/main.e3bb5f28.js.map",
     "511.11ef6c9c.chunk.js.map": "/okmic/static/js/511.11ef6c9c.chunk.js.map",
     "815.b462cd83.chunk.js.map": "/okmic/static/js/815.b462cd83.chunk.js.map",
     "787.182fd71d.chunk.js.map": "/okmic/static/js/787.182fd71d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c87eee66.css",
-    "static/js/main.25dd097c.js"
+    "static/js/main.e3bb5f28.js"
   ]
 }
