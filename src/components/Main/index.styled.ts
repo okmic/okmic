@@ -50,12 +50,12 @@ type TitleProps = {
     width?: string
 }
 export const Title = styled.span<TitleProps>`
+    font-family:  "Garamond, serif";
     max-width: ${(props) => props.width ? props.width : "100%"};
     font-size: ${(props) => props.fontSize ? props.fontSize : "15px"};
     margin-bottom: ${(props) => props.mb ? props.mb : "0"};
     font-weight: ${(props) => props.fontWeight ? props.fontWeight : "none"};
 `
-/* font-family: ${(props) => props.fontFamily ? props.fontFamily : "Garamond, serif"}; */
 
 export const Links = styled.nav`
 width: 100%;
