@@ -44,7 +44,7 @@ const Notification: React.FC<NotificationProps> = ({
 
   return (
     <div
-      className={`fixed top-4 right-4 p-4 rounded-lg shadow-lg text-white ${getColor()} animate-slide-in`}
+      className={`fixed z-40 top-4 right-4 p-4 rounded-lg shadow-lg text-white ${getColor()} animate-slide-in`}
     >
       {message}
       {children && children}

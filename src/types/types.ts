@@ -5,8 +5,8 @@ export type MainType = {
 }
 export type LinksType = {
     cv: string
-    projects: string
     offer: string
+    contacts: string
 }
 export type FooterType = {
     phone: string

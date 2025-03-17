@@ -5,7 +5,6 @@ import { useSelector } from "react-redux"
 import { stateType } from "../../redux/store"
 import { memo } from "react"
 import Resume from "../Resume/Resume"
-import Projects from "../Projects/Projects"
 
 export default memo(function Main() {
 
@@ -36,7 +35,6 @@ export default memo(function Main() {
         </ContentMe>
         
         <Resume />
-        <Projects />
     </Content>
 
 })

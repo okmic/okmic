@@ -9,11 +9,12 @@ overflow: hidden;
 flex-direction: column;
 `
 
-export const TitleScreen = styled.h1`
+export const TitleScreen = styled.h2`
   width: 100%;
   text-align: left;
   position: relative;
   margin: 0;
+  font-size: 26px;
 
   &:after {
     content: '';

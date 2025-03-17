@@ -62,8 +62,8 @@ export const DataEng: dataType = {
     },
     links: {
         cv: 'CV',
-        projects: "Projects",
-        offer: "Offer"
+        offer: "Offer",
+        contacts: "Contacts"
     },
     footer: {
         phone: "Call me",
@@ -74,15 +74,15 @@ export const DataEng: dataType = {
         "title": "Experience and Education",
         "cv": [
             {
-                "about": "*20.07.2016 - 26.06.2021*",
-                "descr": "Bachelor's degree in Applied Informatics. Diploma in Information Systems."
-            },
-            {
                 "about": "*23.07.2011 - 25.06.2015*",
                 "descr": "Vocational education. Diploma in Information Systems. Qualification: Information Systems Technician."
             },
             {
-                "about": "*2019 - 2021*",
+                "about": "*20.07.2016 - 26.06.2021*",
+                "descr": "Bachelor's degree in Applied Informatics. Diploma in Information Systems."
+            },
+            {
+                "about": "*2021 - 2022*",
                 "descr": "North Caucasus State Academy (SKGA) - Automation of internal processes using Python and Node.js, training employees and students in relational database management, and enhancing qualifications in working with local, secure networks."
             },
             {
@@ -210,8 +210,8 @@ export const DataRu: dataType = {
     },
     links: {
         cv: 'Опыт',
-        projects: "Проекты",
-        offer: "Оффер"
+        offer: "Оффер",
+        contacts: "Контакты"
     },
     footer: {
         phone: "Позвоните мне",
@@ -222,15 +222,15 @@ export const DataRu: dataType = {
         title: "Опыт и образование",
         cv: [
             {
-                "about": "*20.07.2016 - 26.06.2021*",
-                "descr": "Степень бакалавра в области прикладной информатики. Диплом в области информационных систем."
-            },
-            {
                 "about": "*23.07.2011 - 25.06.2015*",
                 "descr": "Среднее профессиональное образование. Диплом в области информационных систем. Квалификация: техник информационных систем."
             },
             {
-                "about": "*2019 - 2021*",
+                "about": "*20.07.2016 - 26.06.2021*",
+                "descr": "Степень бакалавра в области прикладной информатики. Диплом в области информационных систем."
+            },
+            {
+                "about": "*2021 - 2022*",
                 "descr": "Северо-Кавказская государственная академия (СКГА) - Автоматизация внутренних процессов с использованием Python и Node.js, обучение сотрудников и студентов работе с реляционными базами данных, а также повышение квалификации в сфере работы с локальными, защищёнными сетями."
             },
             {
