@@ -1,0 +1,2 @@
+@-webkit-keyframes slide-in{0%{opacity:0;-webkit-transform:translateX(100%);transform:translateX(100%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes slide-in{0%{opacity:0;-webkit-transform:translateX(100%);transform:translateX(100%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}.animate-slide-in{-webkit-animation:slide-in .3s ease-out;animation:slide-in .3s ease-out}
+/*# sourceMappingURL=main.c87eee66.css.map*/
