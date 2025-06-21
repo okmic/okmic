@@ -36,7 +36,7 @@ export const Social: React.FC<{color: string}> = ({color}) => <WrapperSocial>
     <a target="_blank" href=" https://wa.me/+79184665096">
         <WhatsAppIcon sx={{ fontSize: '25px', color: color}} />
     </a>
-    <a target="_blank" href=" https://t.me/MicoDevProd"
+    <a target="_blank" href=" https://t.me/okmicDevProd"
         style={{ marginRight: '3px' }}>
         <TelegramIcon sx={{ fontSize: '25px', color: color}} />
     </a>
