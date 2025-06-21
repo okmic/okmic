@@ -86,8 +86,12 @@ export const DataEng: dataType = {
                 "descr": "North Caucasus State Academy (SKGA) - Automation of internal processes using Python and Node.js, training employees and students in relational database management, and enhancing qualifications in working with local, secure networks."
             },
             {
-                "about": "*2022 - Present*",
+                "about": "*2022 - 2025*",
                 "descr": "ConvertMe - Working in an organization focused on digital technologies, developing high-performance, scalable applications on a microservices architecture."
+            },
+            {
+                "about": "*2025 - Present",
+                "descr": "At the moment I work as a freelancer."
             },
             {
                 "about": "Outsourcing Development",
@@ -153,15 +157,7 @@ export const DataEng: dataType = {
     projects: {
         title: '',
         projects: [
-            {
-                title: 'GitHub',
-                linkRep: {
-                    title: 'GitHub profile link',
-                    href: 'https://github.com/okmic'
-                },
-                img: gb,
-                descr: 'While most of my projects are private, you can check out my GitHub profile, where I share open projects and templates. If you`re interested, you can see what I`ve been working on and how I`m developing as a programmer.'
-            }
+
         ]
     },
 }
@@ -234,8 +230,12 @@ export const DataRu: dataType = {
                 "descr": "Северо-Кавказская государственная академия (СКГА) - Автоматизация внутренних процессов с использованием Python и Node.js, обучение сотрудников и студентов работе с реляционными базами данных, а также повышение квалификации в сфере работы с локальными, защищёнными сетями."
             },
             {
-                "about": "*2022 - Настоящее время*",
+                "about": "*2022 - 2025*",
                 "descr": "ConvertMe - Работа в организации, занимающейся цифровыми технологиями, разработка высокопроизводительных, масштабируемых приложений на микросервисной архитектуре."
+            },
+            {
+                "about": "*2025 - Настоящее время*",
+                "descr": "На текущий момент времени работаю как фрилансер"
             },
             {
                 "about": "Аутсорс-разработка",
@@ -247,15 +247,15 @@ export const DataRu: dataType = {
             "skill": [
                 {
                     "img": node,
-                    "descr": "Разрабатываю высокопроизводительные серверные приложения на Node.js, используя фреймворки Express, Fastify и Nest. Это позволяет создавать гибкие и масштабируемые решения, соответствующие требованиям бизнеса."
+                    "descr": "Разрабатываю высокопроизводительные серверные приложения на Node.js, используя фреймворки Express, Fastify и Nest."
                 },
                 {
                     "img": db,
-                    "descr": "Оптимизирую работу с базами данных (реляционными и документно-ориентированными) с использованием ORM (Prisma, TypeORM, MikroORM), что повышает производительность запросов и упрощает поддержку кода."
+                    "descr": "Оптимизирую работу с базами данных (реляционными и документно-ориентированными)"
                 },
                 {
                     "img": telegram,
-                    "descr": "Имею опыт разработки Telegram-ботов с использованием библиотек GrammY и Telegraf. Это позволяет автоматизировать взаимодействие с пользователями и улучшать их опыт."
+                    "descr": "Автоматизирую взаимодействие с пользователями и улучшаю их опыт. Имею большой опыт разработки в разработке Telegram-ботов"
                 },
                 {
                     "img": react,
@@ -275,11 +275,11 @@ export const DataRu: dataType = {
                 },
                 {
                     "img": kubernetes,
-                    "descr": "Управляю развертыванием и масштабированием приложений с использованием Kubernetes, что повышает надежность и доступность сервисов."
+                    "descr": "Управляю развертыванием и масштабированием приложений с использованием Kubernetes."
                 },
                 {
                     "img": microservices,
-                    "descr": "Разрабатываю приложения с микросервисной архитектурой, включая взаимодействие через HTTP и gRPC, что позволяет создавать гибкие и масштабируемые решения."
+                    "descr": "Разрабатываю приложения с микросервисной архитектурой, включая взаимодействие через HTTP и gRPC"
                 }
             ]
         }
@@ -287,15 +287,7 @@ export const DataRu: dataType = {
     projects: {
         title: '',
         projects: [
-            {
-                title: 'GitHub',
-                linkRep: {
-                    title: 'Ссылка на профиль GitHub',
-                    href: 'https://github.com/okmic'
-                },
-                img: gb,
-                descr: 'Хотя большинство моих проектов являются приватными, вы можете заглянуть на мой профиль GitHub, где я размещаю открытые проекты и шаблоны. Если вам интересно, вы сможете увидеть, что я делал и как развиваюсь в программировании.'
-            }
+
         ]
     },
     contacts: {
