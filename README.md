@@ -14,5 +14,5 @@
   <a href="https://okmic.github.io/cv-ru">CV (RU)</a>   |  
   <a href="https://okmic.github.io/cv-eng">CV (EN)</a>   |  
   <a href="https://okmic.github.io/nodejs_backend_devoloper_cv/">NodeJs</a> |
-  <a href="https://okmic.github.io/go_cv/">GO</a> |
+  <a href="https://okmic.github.io/go_cv/">GO</a>
 </p>
