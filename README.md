@@ -10,8 +10,8 @@
 </p>
 <h2 align="center">📫 Contacts</h2>
 <p align="center">
-  <a href="mailto:okmic.dev@gmail.com">Email</a>   |  
-  <a href="https://okmic.github.io/cv-ru">CV (RU)</a>   |  
+  <a href="mailto:okmic.dev@gmail.com">Email</a> |
+  <a href="https://miconext.github.io/Mico/">CV (RU)</a> |
   <a href="https://okmic.github.io/nodejs_backend_devoloper_cv/">NodeJs</a> |
   <a href="https://okmic.github.io/go_cv/">GO</a>
 </p>
