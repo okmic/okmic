@@ -2,7 +2,7 @@
 
 # Mico
 
-**Fullstack-инженер · ИИ в бизнесе · Микросервисы · Высоконагруженные системы**
+**Fullstack-инженер · ИИ в бизнесе · Микросервисы · Высоконагруженные системы · Дизайн**
 
 Пишу на Node.js и Go с 2017 года. Строю системы, которые держат нагрузку, снижают облачный чек и не ломаются в проде.
 
@@ -60,16 +60,8 @@
 
 | Канал | Ссылка |
 |---|---|
-| Telegram | [@MicoNext](https://t.me/mico_developer) |
+| Telegram | [@mico_developer](https://t.me/mico_developer) |
 | Email | [miconext@yandex.ru](mailto:miconext@yandex.ru) |
-| GitHub | [okmic](https://github.com/okmic) |
 | Портфолио | [MicoEngineer](https://okmic.github.io/MicoEngineer) |
 | Проекты | [MicoProjects](https://okmic.github.io/MicoProjects) |
 
----
-
-<div align="center">
-
-**Отвечаю за 15 минут. NDA до начала обсуждения. От 2000 ₽ / час.**
-
-</div>
