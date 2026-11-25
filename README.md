@@ -8,7 +8,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@MicoNext-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mico_developer)
 [![Email](https://img.shields.io/badge/Email-miconext@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miconext@yandex.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-okmic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okmic)
 
 </div>
 
